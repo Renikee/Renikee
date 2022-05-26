@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Renikee
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning HTML, CSS & Kav3
+- 🌱 I’m currently learning HTML, CSS & JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rodiatadebayo@gmail.com 
 
